@@ -1,7 +1,8 @@
 
 # ZiCare Apps
 
-Aplikasi ini dibuat untuk memenuhi tahap tecnical test dari ZiCare.
+Aplikasi ini dibuat untuk memenuhi tahap tecnical test dari ZiCare. Download APK File:
+https://github.com/muhammadsyarif12/zicareapps/blob/master/zicare.apk
 
 
 
