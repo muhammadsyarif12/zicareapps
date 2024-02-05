@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ZiCare</string>
+    <string name="signup_hide_pass">Hide Password</string>
+    <string name="signup_show_pass">Show Password</string>
+    <string name="no_internet_connection_dialog">Internet connection is not available. Would you like to go to settings and enable it?</string>
+    <string name="retry">Retry</string>
+</resources>
